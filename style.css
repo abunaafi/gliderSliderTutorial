@@ -1,30 +1,129 @@
+.ftiphones{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+width: 80%;
+margin-left: 10%;
+position: relative;
+}
 
-.soundessentials{
-    margin-top: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 80%;
-    margin-left: 10%;
-    position: relative;
-  }
+.siliconCase{
+  background-color: #F2F2F2;
+  border-radius: 1rem;
+  margin: 5px;
+}
+.siliconCase img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 250px;
+padding: 10px;
 
-  
-  .airpodspro,.homepod,.bitsfitpro{
-    display: flex;
-    background-color: #F2F2F2;
-    border-radius: 1rem;
-    margin: 5px;
-  }
-  .airpodspro img,.homepod img,.bitsfitpro img {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 250px;
-    width: 250px;
-  padding: 70px;
-  margin: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  }
-  
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.description{
+  text-align: center;
+  margin-bottom: 0%;
+}
+.description p{
+  margin: 0;
+}
+.new{
+  text-align: center;
+color: #CE7946;
+margin-bottom: 0%;
+}
+.circles1{
+  text-align: center;
+}
+.siliconCase{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+text-align: center;
+}
+.circles{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.price{
+margin-top: 0;
+text-align: center;
+margin-bottom: 0%;
+}
+.dot1{
+height: 13px;
+width: 13px;
+background-color: #bbb;
+border-radius: 50%;
+display: inline-block;
+text-align: center;
+margin-top: 1px;
+margin-bottom: 50px;
+margin-left: 3px;
+} 
+#circle11{
+background-color: #FFD78F;
+}
+#circle12{
+background-color: #C6D3CA;
+}
+#circle13{
+background-color: #EDDEEB;
+}
+#circle14{
+background-color: #51424B;
+}
+#circle15{
+background-color: #FBE1DC;
+}
+#circle16{
+background-color: #56606C;
+} 
+  .description a{
+    text-decoration: none;
+    color: #1D1D1F;
+    }
+
+    .invisible{
+      color: #F2F2F2;
+      margin-top: 10px;
+    }
+     /* ///////// */
+  #circle21{
+    background-color: #8F5647;
+    }
+    #circle22{
+    background-color: #4A5857;
+    }
+    #circle23{
+    background-color: #52505B;
+    }
+    #circle24{
+    background-color: #4A4B4D;
+    }
+    #circle25{
+    background-color: #FF8249;
+    }
+    #circle26{
+    background-color: #56606C;
+    } 
+    /* ///////////////////////////////////// */
+    #circle31{
+      background-color: #A1E8FF;
+      }
+      #circle32{
+      background-color: #FFEBC1;
+      }
+      #circle33{
+      background-color: #F0F0F0;
+      }
+      #circle34{
+      background-color: #1B1B1B;
+      }
